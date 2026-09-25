@@ -1,17 +1,11 @@
-BrakoFit V3 Darkmode
+BrakoFit V5 Mobile
 
-Jaunumi:
-- sadaļa Grupas;
-- grupā var pievienot vismaz 2 klientus;
-- grupai piešķir kopīgu programmu;
-- vienlaikus redzami abu klientu lauki katram vingrinājumam;
-- katram klientam saglabājas atsevišķi svari un atkārtojumi;
-- pēc grupas treniņa katra klienta vēsturē izveidojas atsevišķs ieraksts;
-- kalendārā grupu pievieno ar vienu ierakstu.
+GitHub atjaunināšana:
+1. GitHub repozitorijā atver Code.
+2. Add file > Upload files.
+3. Ievelc index.html, manifest.json, sw.js, icon.svg un README.txt.
+4. Apstiprini Replace, ja GitHub to prasa.
+5. Nospied Commit changes.
+6. Sagaidi GitHub Pages publicēšanu un iPhone atver vietni no jauna. Ja joprojām redzama V3, pilnībā aizver BrakoFit un Safari, tad atver vēlreiz.
 
-Palaišana datorā:
-1. Izpako ZIP.
-2. Mapē palaid: python -m http.server 8080
-3. Atver http://localhost:8080
-
-V3 izmanto jaunu lokālo datu glabātuvi. V2 dati automātiski netiek migrēti. Regulāri eksportē rezerves kopiju.
+V5 automātiski mēģina pārņemt V3 lokālos datus tajā pašā vietnes adresē. Pirms nomaiņas V3 sadaļā Vēsture ieteicams eksportēt rezerves kopiju.
