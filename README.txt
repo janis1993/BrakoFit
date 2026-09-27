@@ -1,1 +1,1 @@
-BrakoFit V5.3. Jaunumi: vingrinājuma dzēšana sesijas laikā, kompakta vienas rindas mobilā izvēlne un vienmēr pieejama sticky treniņa pabeigšanas josla virs navigācijas. V5.3 mēģina pārņemt V5.2 lokālos datus. Pirms GitHub atjaunināšanas eksportē rezerves kopiju.
+BrakoFit V5.3 Stable, veidots no iesūtītās V5.2 Stable versijas. Saglabāts taimeris, aktīvā treniņa atjaunošana un manuāla pabeigšana. Pievienota vingrinājuma dzēšana, kompakta vienas rindas navigācija un sticky pabeigšanas josla. Pirms GitHub atjaunināšanas eksportē rezerves kopiju.
