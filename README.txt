@@ -1,1 +1,1 @@
-BrakoFit V5.5 Stable. Kalendāra ieraksta rediģēšana ar konkrētā treniņa vingrinājumiem, minimizējamas programmas, grupu rediģēšana un dzēšana. Esošie V5.4 dati tiek migrēti automātiski; pirms GitHub atjaunināšanas eksportē rezerves kopiju.
+BrakoFit V5.5 Stable, izveidots tieši no lietotāja iesūtītā strādājošā V5.4 index.html. Lokālās datu atslēgas atstātas nemainītas (brakofit-v54), lai saglabātu telefona datus. Jaunumi: kalendāra treniņa rediģēšana, minimizējamas programmas, grupu rediģēšana un dzēšana.
