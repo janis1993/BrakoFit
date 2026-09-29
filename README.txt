@@ -1,1 +1,1 @@
-BrakoFit V5.4 Stable. Labots iestrēdzis aktīvais treniņš pēc pabeigšanas, vēsturē pievienoti kg un reizes marķējumi, pārkārtots kalendāra datums/laiks un centrētāka klienta informācija. Saglabātas V5.3 funkcijas: taimeris, vingrinājumu dzēšana, sticky pabeigšanas josla un kompakta navigācija.
+BrakoFit V5.5 Stable. Kalendāra ieraksta rediģēšana ar konkrētā treniņa vingrinājumiem, minimizējamas programmas, grupu rediģēšana un dzēšana. Esošie V5.4 dati tiek migrēti automātiski; pirms GitHub atjaunināšanas eksportē rezerves kopiju.
